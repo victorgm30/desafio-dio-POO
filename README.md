@@ -1,6 +1,6 @@
 # Desafio DIO – Programação Orientada a Objetos em Java
 
-> Repositório com a solução do desafio de **Programação Orientada a Objetos (POO)** realizado como parte do bootcamp da **Digital Innovation One (DIO)** em Java. :contentReference[oaicite:1]{index=1}
+> Repositório com a solução do desafio de **Programação Orientada a Objetos (POO)** realizado como parte do bootcamp da **Digital Innovation One (DIO)** em Java.
 
 ---
 
@@ -13,7 +13,7 @@ Este projeto tem como objetivo aplicar os principais conceitos da **Programaçã
 - Herança  
 - Polimorfismo
 
-Esses conceitos foram explorados construindo um sistema organizado em classes Java, seguindo boas práticas de design e estruturação do código. :contentReference[oaicite:2]{index=2}
+Esses conceitos foram explorados construindo um sistema organizado em classes Java, seguindo boas práticas de design e estruturação do código. 
 
 ---
 
