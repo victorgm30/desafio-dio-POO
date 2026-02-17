@@ -19,11 +19,11 @@ Esses conceitos foram explorados construindo um sistema organizado em classes Ja
 
 ## Estrutura do Repositório
 
-desafio-dio-POO/
-├── bin/ # Arquivos .class compilados
-├── src/ # Código-fonte em Java
-├── .vscode/ # Configurações do VS Code
-└── README.md # Documentação do projeto
+desafio-dio-POO/  
+├── bin/ # Arquivos .class compilados  
+├── src/ # Código-fonte em Java  
+├── .vscode/ # Configurações do VS Code  
+└── README.md # Documentação do projeto  
 
 ## Tecnologias Utilizadas
 
