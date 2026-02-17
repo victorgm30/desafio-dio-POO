@@ -1,18 +1,51 @@
-## Getting Started
+# Desafio DIO – Programação Orientada a Objetos em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+> Repositório com a solução do desafio de **Programação Orientada a Objetos (POO)** realizado como parte do bootcamp da **Digital Innovation One (DIO)** em Java. :contentReference[oaicite:1]{index=1}
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## Sobre o Projeto
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Este projeto tem como objetivo aplicar os principais conceitos da **Programação Orientada a Objetos** com a linguagem **Java**, tais como:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Abstração  
+- Encapsulamento  
+- Herança  
+- Polimorfismo
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Esses conceitos foram explorados construindo um sistema organizado em classes Java, seguindo boas práticas de design e estruturação do código. :contentReference[oaicite:2]{index=2}
 
-## Dependency Management
+---
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Estrutura do Repositório
+
+desafio-dio-POO/
+├── bin/ # Arquivos .class compilados
+├── src/ # Código-fonte em Java
+├── .vscode/ # Configurações do VS Code
+└── README.md # Documentação do projeto
+
+## Tecnologias Utilizadas
+
+| Tecnologia | Versão                   |
+|------------|--------------------------|
+| Java       | 8 ou superior            |
+| VS Code    | Recomendado como editor  |
+| JDK        | JDK instalado localmente |
+
+## Como Rodar
+
+Certifique-se de ter o **Java (JDK)** instalado no seu sistema.
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/victorgm30/desafio-dio-POO.git
+Abra no seu editor (recomendado: VS Code ou IntelliJ).
+
+Compile o projeto:
+
+javac -d bin src/**/*.java
+Execute a aplicação:
+
+java -cp bin Main
+
